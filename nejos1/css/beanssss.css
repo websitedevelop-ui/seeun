@@ -1,0 +1,17 @@
+/************TAG SELECTOR***********/
+body{
+    background-color:#0011bf;
+}
+h1{
+    font-size: 45px;
+    color: darkblue;
+}
+
+img :hover{
+    background-color: darkmagenta;
+}
+/************CLASS SELECTOR**********/
+.circular{
+    border-radius: 100%;
+}
+/************id selector***********/

@@ -1,0 +1,48 @@
+/**********************TAG SELECTOR*******************/
+h1{
+    color: darkred;
+    text-align: center;
+}
+h4{
+    color: darkgoldenrod;
+}
+h3{
+    color: #66bfbf;
+}
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: darkred;
+    border-width: 9px;
+    width: 20%;
+}
+body{
+    background-color: black;
+}
+td{
+    text-align: center;
+    color: blanchedalmond;
+}
+th{
+    text-align: center;
+    color: blanchedalmond;
+}
+li{
+    color: blanchedalmond;
+}
+form{
+    color:blanchedalmond
+}
+img :hover{
+    background-color: wheat;
+}
+/*****************CLASS SELECTOR***********/
+.seun{
+    border-radius: 100px;
+    bor
+    background-color: RED;
+}
+/*****************id SELECTOR**************/
+#heading{
+    color: darkorange;
+}
